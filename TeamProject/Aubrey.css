@@ -1,0 +1,78 @@
+html{
+  background-color: #EBD8D0;
+}
+
+.pic{
+  max-width: 80%;
+  border-radius: 2%;
+  position: absolute;
+  left: 140px;
+  top: 80px;
+}
+.mainNav{
+  display:flex;
+}
+
+.bacon{
+  position: relative;
+  display: inline-block;
+  left:-250px;
+  top:-30px;
+  padding-left: 55px;
+  margin-right: 150px;
+  
+}
+p{
+  flex: 30%;
+  padding-left: 110px;
+  padding-right: 110px;
+  padding-top: 10px;
+}
+.name{
+  font-size: 20px;
+}
+h1{
+  color: #FFF;
+  position: relative;
+  top: 50px;
+  left: 430px;
+  z-index:1;
+  font-size: 100px;
+}
+.contactInfo{
+  position: relative;
+  top:-40px;
+}
+.contactColor{
+  position: relative;
+  top: -45px;
+}
+.contact{
+  z-index: 1;
+  position: relative;
+  top: 350px;
+  left: 640px;
+}
+h3{
+  display: inline-block;
+  position:relative;
+  left: -215px;
+  padding-left: 30px;
+  
+}
+.pic2{
+  position: relative;
+  top:250px;
+  left:280px;
+  z-index: 1;
+  max-width: 150px;
+  border-radius: 25px;
+}
+a{
+  list-style: none;
+  text-decoration: none;
+  color: #A26769;
+}
+.contactColor{
+  color: #A26769;
+}

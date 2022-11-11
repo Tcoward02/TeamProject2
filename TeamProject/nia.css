@@ -1,0 +1,127 @@
+body{
+    background-color: #c9d0d0;
+}
+.navchild{
+    position: relative;
+    display:inline-block;
+    float: right;
+    right: 25px;
+}
+.navchild1{
+    display: inline-block;
+    position: relative;
+    left: 25px;
+    float: left;
+    top:10px;
+}
+.navchild2{
+    float: right;
+    display: inline-block;
+    position: relative;
+    right: 25px;
+    margin-right:10px;
+    top:10px;
+    
+}
+
+
+.backimg{
+    width: 100%;
+    height: 500px;
+}
+
+h1{
+    position: absolute;
+    top: 150px;
+    left: 250px;
+    font-size: 100px;
+    text-align: center;
+    color: #f3c744;
+    text-shadow: 1px 1px 0 #000,
+    -1px 1px 0 #000,
+    1px -1px 0 #000,
+    -1px -1px 0 #000,
+    0px 1px 0 #000,
+    0px -1px 0 #000,
+    -1px 0px 0 #000,
+    1px 0px 0 #000,
+    2px 2px 0 #000,
+    -2px 2px 0 #000,
+    2px -2px 0 #000,
+    -2px -2px 0 #000,
+    0px 2px 0 #000,
+    0px -2px 0 #000,
+    -2px 0px 0 #000,
+    2px 0px 0 #000,
+    1px 2px 0 #000,
+    -1px 2px 0 #000,
+    1px -2px 0 #000,
+    -1px -2px 0 #000,
+    2px 1px 0 #000,
+    -2px 1px 0 #000,
+    2px -1px 0 #000,
+    -2px -1px 0 #000;
+    
+}
+.pandacolor{
+    color: #027b3e;
+}
+.head{
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    color: white;
+}
+.flexcontainer{
+    align-items: center;
+  justify-content: center;;
+}
+.flexchild{
+  width: 90%;
+    border: 2px solid black;
+    border-radius: 25px;
+    text-align: center;
+    background-color: #cccecf;
+    margin-left: 75px;
+    margin-right: 20px;
+    margin-top: 15px;
+  
+    
+}
+.felxchild:first-child{
+    margin-right:20px;
+}
+
+ol{
+    list-style: none;
+    padding: 0;
+}
+li{
+    text-align: center;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: #027b3e;
+}
+.myname{
+    text-align: center;
+    display:inline-block;
+    position: relative;
+    left: 600px;
+}
+.Potstickerlink{
+  text-align: center;
+  display: block;
+}
+
+.Souplink{
+  text-align: center;
+  display: block;
+}
+p{
+  text-align: center;
+}
